@@ -1,1 +1,1 @@
-# PythonApplication
+# Python Practices
